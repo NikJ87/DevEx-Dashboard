@@ -1,0 +1,17 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "whitelabel",
+    "whitelabels",
+    "devex",
+    "vitest",
+    "tailwindcss",
+    "clsx"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "dist",
+    "package-lock.json"
+  ]
+}
